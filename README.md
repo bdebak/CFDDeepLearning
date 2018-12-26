@@ -21,3 +21,4 @@ Steps 1 is in one spatial dimension. Further steps will be in two dimensions (2D
 All contributions via pull request are accepted. You can also open an issue if you find a bug, or have a suggestion. 
 
 (c) 2019 Benoit Debaque. All content is under MIT license.
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
