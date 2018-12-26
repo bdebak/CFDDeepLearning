@@ -14,6 +14,10 @@ Topics
 Steps 1 is in one spatial dimension. Further steps will be in two dimensions (2D).
 * [Step 1]
 
+## References
+
+MALLAT, Stéphane. Understanding deep convolutional networks. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences, 2016, vol. 374, no 2065, p. 20150203.
+
 ## Dependencies
 
 ## How to contribute
